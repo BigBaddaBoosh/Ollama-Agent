@@ -1,0 +1,17 @@
+{
+  "objective": "Complete initial autonomous support-agent workflow",
+  "tasks": [
+    {
+      "title": "Assess user issue context",
+      "details": "Read ticket details and identify key blockers, impact, and urgency."
+    },
+    {
+      "title": "Draft remediation approach",
+      "details": "Generate a minimal, actionable remediation plan with dependencies."
+    },
+    {
+      "title": "Prepare customer-facing update",
+      "details": "Summarize the current status and next steps in clear language."
+    }
+  ]
+}
